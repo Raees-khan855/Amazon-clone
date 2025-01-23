@@ -1,0 +1,188 @@
+*{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+.navbar{
+    background-color: rgb(0, 150, 100);
+    color: white;
+    height: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+/*box1*/
+.nav-search{
+    width: 700px;
+    height: 30px;
+}
+.select{
+    height: 36px;
+    width: 50px;
+    border-right: none;
+}
+.search-icon{
+    width: 40px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    background-color: #fcbd68;
+    margin-right: 3rem;
+    border-right: none;
+}
+.addicon{
+    margin-left: 2rem;
+    padding-right: 4px;
+}
+.location{
+    margin-right: 2rem;
+}
+.Raees{
+    margin-right: 4rem;
+}
+.Return{
+    margin-right: 3rem;
+}
+.Carts{
+    margin-right: 2rem;
+}
+.BAR{
+    height: 30px;
+    background-color: rgb(0, 150, 100);
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+.All{
+    margin-right: 3rem;
+}
+.mainicon{
+    margin-left: 5rem;
+}
+.Today{
+    margin-right: 3rem;
+}
+.Sell{
+    margin-right: 3rem;
+}
+.Gift{
+    margin-right:3rem ;
+}
+.Buy{
+    margin-right: 3rem;
+}
+.Proffes{
+    margin-right: 3rem;
+}
+.Customer{
+    margin-right: 3rem;
+}
+.Browsing{
+    margin-right: 3rem;
+}
+.Registry{
+    margin-right: 1rem;
+}
+.Backgroundimage{
+    background-image: url(818WR6jtOyL._SX3000_.jpg);
+    height: 300px;
+    width: 1260px;
+    background-size: cover;
+}
+/*shoping box*/
+.shop{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5px;
+    display: flex;
+    background-color: rgb(103, 143, 116);
+}
+.box1{
+    background-color: white;
+    width: 250px;
+    height: 400px;
+    background-size: cover;
+    padding: 1rem;
+}
+.box2{  background-color: white;
+    width: 250px;
+    height: 400px;
+    padding: 1rem;
+
+}
+.box3{
+    background-color: white;
+    width: 250px;
+    height: 400px;
+    padding: 1rem;
+}
+.box4{
+    background-color: white;
+    width: 250px;
+    height: 400px;
+    padding: 1rem;
+
+}
+.image{
+    height:350px;
+    width: 250px;
+    background-image: url(Fuji_Desktop_Single_image_EBF_1x_v2._SY304_CB573698005_.jpg);
+    background-size: cover;
+}
+.image1{
+    height:350px;
+    width: 250px;
+    background-image: url(Fuji_Gaming_store_Dashboard_card_1x_EN._SY304_CB564799420_.jpg);
+    background-size: cover;
+}
+.image2{
+    height:320px;
+    width: 250px;
+    background-image: url(Fuji_Holiday_deals_Dashboard_card_2X._SY608_CB540780866_.jpg);
+    background-size: cover;
+}
+.image3{
+    height:320px;
+    width: 250px;
+    background-image: url(CleaningTool_2x._SY232_CB563137408_.jpg);
+    background-size: cover;
+}
+#To{
+    font-size: 12px;
+}
+.amazon{
+    margin-left: 1rem;
+    font-size: 25px;
+}
+.foter{
+    height: 60px;
+    background-color:#37475A;
+    color: #111;
+    text-align: center;
+    align-content: center;
+}
+.nav-foter{
+    width: 1260px;
+    height: 300px;
+    background-color: #213347;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+.div1{
+    margin-top: 1rem;
+}
+.div2{
+    margin-top: 1rem;
+}
+.div3{
+    margin-top: 1rem;
+}
+.div4{
+    margin-top: 2rem;
+    
+}
+
